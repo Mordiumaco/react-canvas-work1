@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b3281d40b67a611e1a7ec497652f8107",
+    "revision": "5e09c410a742b3be5a11148eccdd77d1",
     "url": "/react-canvas-work1/index.html"
   },
   {
-    "revision": "8e900eea267af181fe92",
+    "revision": "3c31c9fd1239f8553363",
     "url": "/react-canvas-work1/static/css/main.523f09c5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-canvas-work1/static/js/2.af86a2b5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8e900eea267af181fe92",
-    "url": "/react-canvas-work1/static/js/main.caf24f2d.chunk.js"
+    "revision": "3c31c9fd1239f8553363",
+    "url": "/react-canvas-work1/static/js/main.0c622487.chunk.js"
   },
   {
     "revision": "0ca5a09a0fd82f7728e7",
