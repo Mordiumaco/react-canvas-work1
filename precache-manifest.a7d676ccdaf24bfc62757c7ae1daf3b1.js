@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "db2daa05d5ed123ef5854350296318c4",
+    "revision": "90c6cca28e7cb1c8d04073ac4ef9c945",
     "url": "/react-canvas-work1/index.html"
   },
   {
-    "revision": "9a39b1af9e672da9442d",
-    "url": "/react-canvas-work1/static/css/main.5f361e03.chunk.css"
+    "revision": "b2b670875be9393500e4",
+    "url": "/react-canvas-work1/static/css/main.523f09c5.chunk.css"
   },
   {
     "revision": "e0f3d521a5d6a1966991",
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-canvas-work1/static/js/2.af86a2b5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9a39b1af9e672da9442d",
-    "url": "/react-canvas-work1/static/js/main.1f523e8d.chunk.js"
+    "revision": "b2b670875be9393500e4",
+    "url": "/react-canvas-work1/static/js/main.4658d472.chunk.js"
   },
   {
     "revision": "0ca5a09a0fd82f7728e7",
     "url": "/react-canvas-work1/static/js/runtime-main.1f63f54a.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/react-canvas-work1/static/media/logo.5d5d9eef.svg"
+    "revision": "ee7cd8ed2dcec943251eb2763684fc6f",
+    "url": "/react-canvas-work1/static/media/logo.ee7cd8ed.svg"
   }
 ]);
