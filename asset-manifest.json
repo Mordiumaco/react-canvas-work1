@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/testing/static/css/main.5f361e03.chunk.css",
-    "main.js": "/testing/static/js/main.19ef6717.chunk.js",
-    "main.js.map": "/testing/static/js/main.19ef6717.chunk.js.map",
-    "runtime-main.js": "/testing/static/js/runtime-main.7bbf28cf.js",
-    "runtime-main.js.map": "/testing/static/js/runtime-main.7bbf28cf.js.map",
-    "static/js/2.af86a2b5.chunk.js": "/testing/static/js/2.af86a2b5.chunk.js",
-    "static/js/2.af86a2b5.chunk.js.map": "/testing/static/js/2.af86a2b5.chunk.js.map",
-    "index.html": "/testing/index.html",
-    "precache-manifest.6aba899c3ae1e23a52c2ed1d25ada665.js": "/testing/precache-manifest.6aba899c3ae1e23a52c2ed1d25ada665.js",
-    "service-worker.js": "/testing/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/testing/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.af86a2b5.chunk.js.LICENSE.txt": "/testing/static/js/2.af86a2b5.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/testing/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-canvas-work1/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-canvas-work1/static/js/main.1f523e8d.chunk.js",
+    "main.js.map": "/react-canvas-work1/static/js/main.1f523e8d.chunk.js.map",
+    "runtime-main.js": "/react-canvas-work1/static/js/runtime-main.1f63f54a.js",
+    "runtime-main.js.map": "/react-canvas-work1/static/js/runtime-main.1f63f54a.js.map",
+    "static/js/2.af86a2b5.chunk.js": "/react-canvas-work1/static/js/2.af86a2b5.chunk.js",
+    "static/js/2.af86a2b5.chunk.js.map": "/react-canvas-work1/static/js/2.af86a2b5.chunk.js.map",
+    "index.html": "/react-canvas-work1/index.html",
+    "precache-manifest.c12cde3d9497272b5920df479a82dbe8.js": "/react-canvas-work1/precache-manifest.c12cde3d9497272b5920df479a82dbe8.js",
+    "service-worker.js": "/react-canvas-work1/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-canvas-work1/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.af86a2b5.chunk.js.LICENSE.txt": "/react-canvas-work1/static/js/2.af86a2b5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-canvas-work1/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7bbf28cf.js",
+    "static/js/runtime-main.1f63f54a.js",
     "static/js/2.af86a2b5.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.19ef6717.chunk.js"
+    "static/js/main.1f523e8d.chunk.js"
   ]
 }
